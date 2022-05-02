@@ -1,17 +1,5 @@
-import * as React from 'react';
-import {
-  Text,
-  View,
-  StyleSheet,
-  TextInput,
-  TouchableOpacity,
-  Image,
-  Alert
-} from 'react-native';
-import { Header } from 'react-native-elements';
-import db from './localdb';
-import PhonicSoundButton from './components/PhonicSoundButton';
 
+<<<<<<< HEAD
 export default class App extends React.Component {
   constructor() {
     super();
@@ -108,3 +96,5 @@ const styles = StyleSheet.create({
     marginLeft: 95,
   }
 });
+=======
+>>>>>>> 3899e2a89b09ed1c117213528f28f8b5e2e811a9
